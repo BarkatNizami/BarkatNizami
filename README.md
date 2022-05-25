@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BarkatNizami
 - 👀 I’m interested in Blockchain technology and it's uses
-- 🌱 I’m currently learning Java/DSA and multiple other things from https://www.scaler.com/
-- 💞️ I’m looking to collaborate on any open source project once I learn enough.
+- 🌱 I’m currently learning Javascript/DSA and multiple other things from https://www.scaler.com/
+- 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me (barkat.nizami@gmail.com)
 
 <!---
